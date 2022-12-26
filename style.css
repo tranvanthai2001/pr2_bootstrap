@@ -4,6 +4,13 @@
     --three-color: #FFFFFF;
     --for-color: #1F1F2E;
 }
+header{position: sticky !important;top: 0px;z-index: 10000;}
+ .container header{top:32px !important;}
+.nav {
+	padding: 0 200px;
+	background-color: #f4f3ee;
+}
+
 .navbar-brand {
     color: var(--primary-color);
 }
