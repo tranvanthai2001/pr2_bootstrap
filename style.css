@@ -45,3 +45,23 @@ header{position: sticky !important;top: 0px;z-index: 10000;}
     padding-top: 3rem !important;
     padding-bottom: 3rem !important;
 }
+.custom-select {
+    width: 100%;
+}
+.form-btn button {
+    width: 100%;
+}
+.position-absolute {
+    width: 80px;
+    height: 80px;
+    bottom: -20px;
+    right: 30px;
+}
+.rounded-circle {
+    width: 40px;
+    height: 40px;
+}
+.pdp p {
+    padding-bottom: 20px;
+    font-size: 20px;
+}
